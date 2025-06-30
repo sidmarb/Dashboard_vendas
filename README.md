@@ -33,7 +33,7 @@ Confira o visual do painel diretamente aqui:
    ```bash
    git clone https://github.com/sidmarb/Dashboard_vendas.git
 
-2. Abra o arquivo ![Vendas.xlsx](https://github.com/sidmarb/Dashboard_vendas/blob/bb9f3c27b572a017f2d33ace6339e42f3c95b15f/Vendas.xlsx) no Excel (versão 2016 ou superior)
+2. Abra o arquivo [Vendas.xlsx](https://github.com/sidmarb/Dashboard_vendas/blob/bb9f3c27b572a017f2d33ace6339e42f3c95b15f/Vendas.xlsx) no Excel (versão 2016 ou superior)
 
 3. Vá até a aba de Dashboard
 
@@ -58,17 +58,17 @@ Este dashboard é ideal para:
 ## 🤝 Contribuições
 
 Contribuições são sempre bem-vindas!
-Sinta-se à vontade para abrir um ![pull request](https://github.com/sidmarb/Dashboard_vendas/pulls) com melhorias, ajustes de layout ou até novas ideias de visualização.
-Também é possível abrir uma ![issue](https://github.com/sidmarb/Dashboard_vendas/issues) caso encontre algum bug ou queira sugerir uma funcionalidade.
+Sinta-se à vontade para abrir um [pull request](https://github.com/sidmarb/Dashboard_vendas/pulls) com melhorias, ajustes de layout ou até novas ideias de visualização.
+Também é possível abrir uma [issue](https://github.com/sidmarb/Dashboard_vendas/issues) caso encontre algum bug ou queira sugerir uma funcionalidade.
 
 ---
 
 ## 🧙 Autor
 
-Desenvolvido por ![Sidmar Borges](https://github.com/sidmarb) — com paixão por Excel, dashboards e games 🎮
+Desenvolvido por [Sidmar Borges](https://github.com/sidmarb) — com paixão por Excel, dashboards e games 🎮
 
 ---
 
 ## 📜 Licença
 
-Este projeto está licenciado sob a ![GPL v3](https://github.com/sidmarb/Dashboard_vendas/blob/main/LICENSE).
+Este projeto está licenciado sob a [GPL v3](https://github.com/sidmarb/Dashboard_vendas/blob/main/LICENSE).
